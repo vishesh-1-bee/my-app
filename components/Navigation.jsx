@@ -12,6 +12,8 @@ const Navigation = () => {
         <Link href='/'>Home</Link>
         <Link href='/about'>About</Link>
         <Link href='/contact'>Contact</Link>
+        <Link href='/clientcomponent'>clientcomponent</Link>
+        <Link href='/servercomponent'>servercomponent</Link>
         <Link href='/service'>Service</Link>
      </div>
     </div>
